@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/zad4.dir/main.cpp.o CMakeFiles/zad4.dir/Polygon.cpp.o CMakeFiles/zad4.dir/Tringle.cpp.o CMakeFiles/zad4.dir/Rectangle.cpp.o  -o zad4 

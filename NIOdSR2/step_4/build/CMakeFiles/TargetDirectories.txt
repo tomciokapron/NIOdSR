@@ -1,0 +1,7 @@
+/home/tomek/niodsr2/cmake_make_lab/step_4/build/CMakeFiles/install/strip.dir
+/home/tomek/niodsr2/cmake_make_lab/step_4/build/CMakeFiles/edit_cache.dir
+/home/tomek/niodsr2/cmake_make_lab/step_4/build/CMakeFiles/install.dir
+/home/tomek/niodsr2/cmake_make_lab/step_4/build/CMakeFiles/rebuild_cache.dir
+/home/tomek/niodsr2/cmake_make_lab/step_4/build/CMakeFiles/zad4.dir
+/home/tomek/niodsr2/cmake_make_lab/step_4/build/CMakeFiles/list_install_components.dir
+/home/tomek/niodsr2/cmake_make_lab/step_4/build/CMakeFiles/install/local.dir

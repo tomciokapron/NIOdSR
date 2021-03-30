@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomek/niodsr2/cmake_make_lab/step_3/Polygon.cpp
+Polygon.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Polygon.h
+
+/home/tomek/niodsr2/cmake_make_lab/step_3/Polygon.h
+
+/home/tomek/niodsr2/cmake_make_lab/step_3/Rectangle.cpp
+Rectangle.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Rectangle.h
+
+/home/tomek/niodsr2/cmake_make_lab/step_3/Rectangle.h
+Polygon.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Polygon.h
+
+/home/tomek/niodsr2/cmake_make_lab/step_3/Tringle.cpp
+Tringle.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Tringle.h
+Polygon.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Polygon.h
+
+/home/tomek/niodsr2/cmake_make_lab/step_3/Tringle.h
+Polygon.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Polygon.h
+
+/home/tomek/niodsr2/cmake_make_lab/step_3/main.cpp
+iostream
+-
+Polygon.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Polygon.h
+Rectangle.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Rectangle.h
+Tringle.h
+/home/tomek/niodsr2/cmake_make_lab/step_3/Tringle.h
+

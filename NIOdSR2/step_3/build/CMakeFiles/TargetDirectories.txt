@@ -1,0 +1,3 @@
+/home/tomek/niodsr2/cmake_make_lab/step_3/build/CMakeFiles/rebuild_cache.dir
+/home/tomek/niodsr2/cmake_make_lab/step_3/build/CMakeFiles/zad3file.dir
+/home/tomek/niodsr2/cmake_make_lab/step_3/build/CMakeFiles/edit_cache.dir
